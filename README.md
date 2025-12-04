@@ -5,7 +5,7 @@
 
 ---
 ## Para o futuro
-😎 💻 Cibersegurança
+😎 💻 Cybersecurity Analyst
 
 ## 🛠️ Tecnologias que estou estudando
 - 🟨 **COBOL** → desenvolvimento e manutenção de sistemas legados (folha de pagamento, bancos, cadastros).  
