@@ -4,6 +4,8 @@
 🚀 Gosto de explorar como ideias dos filmes de ficção podem virar projetos reais e funcionais.  
 
 ---
+## Para o futuro
+😎 💻 Cibersegurança
 
 ## 🛠️ Tecnologias que estou estudando
 - 🟨 **COBOL** → desenvolvimento e manutenção de sistemas legados (folha de pagamento, bancos, cadastros).  
@@ -35,8 +37,7 @@
 ⭐️ Sempre explorando novas ideias e trazendo projetos que unem **passado, presente e futuro** da tecnologia.  
 
 ---
-## Para o futuro
-😎 💻 Cibersegurança
+
 ## 🛠️ Outras tecnologias que estou estudando
 ![COBOL](https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
