@@ -1,11 +1,6 @@
 ### Olá, eu sou Auridinei Abreu
 <p align="justify">
-Front-end Developer com foco em HTML5, CSS3 e JavaScript,<br>
-entregando interfaces funcionais, organizadas e sustentáveis.<br>
-Estudante de Cibersegurança, com atenção real a boas práticas<br>
-e proteção de sistemas. Em formação em Back-end com C# e .NET,<br>
-buscando base sólida, arquitetura correta e código que escale.<br>
-Nada de hype. Trabalho sério, consistência e evolução contínua.
+Front-end Developer com foco em HTML5, CSS3 e JavaScript, desenvolvendo interfaces funcionais, organizadas e pensadas para uso real. Atualmente em transição para o Back-end com C# e .NET, buscando base sólida em arquitetura, lógica e boas práticas de desenvolvimento. Estudante de Cibersegurança, com atenção constante à proteção de aplicações, responsabilidade técnica e código seguro. Sem atalhos, sem hype: aprendizado contínuo, disciplina e evolução consistente.
 </p>
 
 ## Onde você me encontra
