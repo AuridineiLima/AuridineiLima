@@ -1,5 +1,5 @@
 ### Olá, eu sou Auridinei Abreu
-<p Desenvolvedor Front-End em transição para Full Stack, com foco em trabalho remoto. Experiência em HTML, CSS e JavaScript, atualmente estudando React e TypeScript para criação de aplicações mais robustas e escaláveis. Em constante evolução, com atenção a boas práticas, código limpo e colaboração em ambientes distribuídos.
+<p> Desenvolvedor Front-End em transição para Full Stack, com foco em trabalho remoto. Experiência em HTML, CSS e JavaScript, atualmente estudando React e TypeScript para criação de aplicações mais robustas e escaláveis. Em constante evolução, com atenção a boas práticas, código limpo e colaboração em ambientes distribuídos.
 </p>
 
 ## Onde você me encontra
